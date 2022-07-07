@@ -1,4 +1,4 @@
-### Hello World! 
+### Hello World! 🙌
 
 I am Nic 🇵🇹 , and I am a Junior Developer and my main interest is to **LEARN**! 📖 🖥️ 🖱️
 
