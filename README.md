@@ -1,6 +1,6 @@
 ### Hello World! 🙌
 
-I am Nic, and I am a Junior Developer and my main interest is to **LEARN**! 📖 🖥️ 🖱️
+I am Nic, I am a Junior Developer and my main interest is to **LEARN**! 📖 🖥️ 🖱️
 
 I finished a **Master in Python** in CICE.es last November 2021 and since then, I have been searching for an opportunity to start a career.
 
