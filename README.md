@@ -1,6 +1,6 @@
 ### Hello World! :v:
 
-I am Nic, and I am a Junior Web Developer in <img src="https://camo.githubusercontent.com/f588f503d402281815ec27bfe82f9009daa8e2c6f364b83c9ef45c4873d9cd19/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335343233382f707974686f6e2e737667" width="25"/>
+I am Nic, and I am a Junior Web Developer in <img src="https://camo.githubusercontent.com/f588f503d402281815ec27bfe82f9009daa8e2c6f364b83c9ef45c4873d9cd19/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335343233382f707974686f6e2e737667" width="25"/> and my Main Interest is to **LEARN**! 📖 🖥️ 🖱️
 
 I finished a **Master in Python** in CICE.es last November 2021 and since then, I have been searching for an opportunity to start a career.
 
